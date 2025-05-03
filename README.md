@@ -1,6 +1,9 @@
 # 2025 KIIS Spring Conference pp.225-226
 Theme: Enhancing Recommender Systems through Sentiment-Aware Rating Recalibration
 
+# Citation
+Jiwon Jang, Jaejoon Choi, and Sanghyun Choo , “Enhancing Recommender Systems through Sentiment-Aware Rating Recalibration ”, Proceedings of Korean Institute of Intelligent Systems, 2025, Vol. 35, No. 1, 2025, pp. 225-226.
+
 URL: https://kiis.or.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20250201&CpPage=168#CONF
 
 
